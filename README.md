@@ -90,6 +90,8 @@ python train_model.py
 
 Enter the four measurements and click Predict. The application displays the predicted species. Input limits reflect the measurement ranges observed in the dataset.
 
-## Deployment Status
+## Live Application
 
-The application has been tested locally. Deployment to Streamlit Community Cloud is pending.
+The application is deployed on Streamlit Community Cloud:
+
+https://atifk8326-droid-machine-learning-project-app-dz4puz.streamlit.app/
